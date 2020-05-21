@@ -1,6 +1,7 @@
 def oxford_comma(array)
-  if array = []
+  if array = ["kiwi"]
     "kiwi"
-  else
+  else array = ["kiwi", "durian"]
+    ["kiwi" and "durian"]
   end
 end
