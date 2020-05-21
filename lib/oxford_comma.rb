@@ -1,7 +1,7 @@
 def oxford_comma(array)
-  if array = ["kiwi"]
-    "kiwi"
-  else array = ["kiwi", "durian"]
-    "kiwi" and "durian"
+  if 1 == array.length
+    array.join
+  else array = 
+    array.
   end
 end
