@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  array = "kiwi"
+  if array = "kiwi"
+  else
+  end
 end
